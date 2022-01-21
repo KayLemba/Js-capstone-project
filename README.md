@@ -13,7 +13,7 @@
 - Jest
 
 ## Live demo
-[Live Demo Link](https://youmari.github.io/Js-capstone-project/dist/)
+[Live Demo Link](https://happy-benz-cf179a.netlify.app/)
 
 ## Getting Started
 ## To run the website locally follow the following steps:
